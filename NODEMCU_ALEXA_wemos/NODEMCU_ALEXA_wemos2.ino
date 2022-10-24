@@ -9,8 +9,8 @@
 #include <IRutils.h>
 
 /* Network credentials */
-#define WIFI_SSID "WIFI-ID-HERE"
-#define WIFI_PASS "PASSWORD-HERE"
+#define WIFI_SSID "WN-IOT"
+#define WIFI_PASS "Equipos2020-IOT"
 
 
 #define SERIAL_BAUDRATE 9600
