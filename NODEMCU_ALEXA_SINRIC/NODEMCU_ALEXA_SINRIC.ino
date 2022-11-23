@@ -13,9 +13,6 @@
 /* Network/API credentials */
 #include "secrets.h"
 
-#define SWITCH_ID_1 "5fea624b66f1b90e416c6b62" // Should look like "5dc1564130xxxxxxxxxxxxxx"
-#define SWITCH_ID_2 "5fea77ed9068370e5845dc4d" // Should look like "5dc1564130xxxxxxxxxxxxxx"
-
 #define BAUD_RATE 9600 // Change baudrate to your need
 
 bool onPowerState1(const String &deviceId, bool &state)
